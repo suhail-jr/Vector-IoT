@@ -9,7 +9,7 @@ Vector IoT : World’s smallest and powerful fully opensource  fully-featured ES
 
 # Rendered Footage of the PCB
 
-
+![Render](pcbrender2d.png "Render")
 ## Licence
  * Hardware in this repository is licenced under Creative Commons BY-SA
 
