@@ -1,7 +1,7 @@
 # Vector-IoT
 Vector IoT : World’s smallest and powerful fully opensource  fully-featured ESP32 development board designed to unlock the power of the ESP32’s dual-core 240MHz and internet connectivity, in a package smaller than your thumb!
 
- ~ Current Status: Prototype boards sponsored by jlcpcb.com ~
+ ~ Current Status: Prototype boards sponsored by[a link](https://jlcpcb.com) ~
      
      Note: This design was performed in Eagle 9.2.0 , you will need a atleast eagle 9.2.0 or higher version to open and edit these source files. 
            # Chance for bugs : High
